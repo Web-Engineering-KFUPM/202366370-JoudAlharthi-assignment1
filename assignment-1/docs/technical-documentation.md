@@ -39,5 +39,5 @@ assignment-1/
 
 ## 4. Responsive Design & Compatibility
 
-* **Viewport Adaptability:** Tested using browser Developer Tools to ensure seamless scaling across mobile devices, tablets, and desktop displays.
+* **Viewport Adaptability:** Tested using browser  to ensure seamless scaling across mobile devices, tablets, and desktop displays.
 * **Relative Asset Pathing:** All resources (stylesheets, scripts, and images) utilize relative paths pointing to their respective directories (`css/`, `js/`, `images/`) to ensure broken link prevention and smooth cross environment execution.
