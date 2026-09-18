@@ -1,4 +1,4 @@
 # Personal Portfolio Website
 
 ## Tasks:
-* ** Assignment one Done ☑️ **
+* ** Assignment one Done ☑️ 
