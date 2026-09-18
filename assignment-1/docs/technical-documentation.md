@@ -19,7 +19,7 @@ This technical documentation outlines the architecture, technology stack, and st
 ## 3. Project Directory Architecture
 
 The project files are organized into dedicated subfolders for clarity and separation of concerns:
-
+'''text
 assignment-1/
 │
 ├── index.html                  # Main entry point and document structure
@@ -35,7 +35,7 @@ assignment-1/
 └── docs/
    ├── ai-usage-report.md      # Documentation of AI integration and usage
    └── technical-documentation.md # System architecture and implementation details
-
+'''
 
 ## 4. Responsive Design & Compatibility
 
